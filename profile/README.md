@@ -15,4 +15,4 @@ SiliconBrane Inc is the sponsorship recipient for the KiCad AI Router. The route
 ## Contact
 
 - Web: [siliconbrane.com](https://www.siliconbrane.com)
-- Email: ray@siliconbrane.com
+- Email: contact@siliconbrane.com
